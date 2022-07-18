@@ -34,7 +34,7 @@ The following screenshots and short videos demonstrate the compilation and succe
 
 1. Screenshot of the successful compilation of the KaseiCoin token contract.
 
-![alt text](https://github.com/Khaingz/Creating-a-Fungible-Token/blob/main/KaseiCoin%20complied%20screenshot.png)
+![alt text](https://github.com/Khaingz/Creating-a-Fungible-Token/blob/main/Screenshot/KaseiCoin%20complied%20screenshot.png)
 
 
 
@@ -49,7 +49,7 @@ The following screenshots and short videos demonstrate the compilation and succe
 
 2. Screenshot of the successful compilation of the KaiseCoinCrowdsale contract Picture 1.
 
-![alt text](https://github.com/Khaingz/Creating-a-Fungible-Token/blob/main/KaseiCoinCrowdsale%20compiled%20screenshot%201.png)
+![alt text](https://github.com/Khaingz/Creating-a-Fungible-Token/blob/main/Screenshot/KaseiCoinCrowdsale%20compiled%20screenshot%201.png)
 
 
 
@@ -64,7 +64,7 @@ The following screenshots and short videos demonstrate the compilation and succe
 
 3. Screenshot of the successful compilation of the KaiseCoinCrowdsale contract picture 2.
 
-![alt text](https://github.com/Khaingz/Creating-a-Fungible-Token/blob/main/KaseiCoinCrowdsale%20compiled%20screenshot%202.png)
+![alt text](https://github.com/Khaingz/Creating-a-Fungible-Token/blob/main/Screenshot/KaseiCoinCrowdsale%20compiled%20screenshot%202.png)
 
 
 
@@ -79,7 +79,7 @@ The following screenshots and short videos demonstrate the compilation and succe
 
 4. Screenshot of the successful compilation of the KaiseCoinCrowdsaleDeployer contract.
 
-![alt text](https://github.com/Khaingz/Creating-a-Fungible-Token/blob/main/KaseiCoinCrowdsaleDeployer%20complied%20screenshot.png)
+![alt text](https://github.com/Khaingz/Creating-a-Fungible-Token/blob/main/Screenshot/KaseiCoinCrowdsaleDeployer%20complied%20screenshot.png)
 
 
 
